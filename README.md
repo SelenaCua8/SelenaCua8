@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**SelenaCua8/SelenaCua8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HOLA, soy Selena 
 
-Here are some ideas to get you started:
+Fullstack Developer | System Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+
+Hi! I'm **Selena**, a 26-year-old **System Analyst student**. My journey in programming is driven by curiosity; I am interested in many tech fields, but currently, my main focus is on **PHP (Laravel)**, **MySQL**, and **JavaScript/TypeScript**.
+
+I also have solid foundations in **Java** and I enjoy tackling challenges that blend logic with practical solutions for real-world problems.
+
+Currently, I work as a **Freelance Developer**, where I enjoy turning ideas into functional projects. Some of my recent work includes:
+
+* 🛒 **Pre-sale system** with a shopping cart for a beverage distributor.
+* ⚽ **Management platform** for soccer field rentals.
+* 🌸 **Inventory & sales system** for a flower shop.
+
+I am always open to learning and looking for new opportunities to keep growing as a professional. Thanks for stopping by my profile!
+
+
+## 🛠️ Tech Stack
+
+**Backend:** PHP (Laravel), Java.
+
+**Frontend:** HTML5, CSS3 (Tailwind CSS), JavaScript, TypeScript.
+
+**Base de Datos:** MySQL, SQLite.
+
+**Entorno y Herramientas:** Linux, GitBash, Git, GitHub, VS Code.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-selena-cuadra.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenacuadra)
+
+
+![Logo](https://raw.githubusercontent.com/SelenaCua8/SelenaCua8/main/sc.png)
+
