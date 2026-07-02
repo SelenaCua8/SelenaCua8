@@ -49,10 +49,7 @@ Planning, UI design and database modeling for a sports news & discussion platfor
 
 ### 📈 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelenaCua8&show_icons=true&theme=default&hide_title=true" alt="Selena's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelenaCua8&layout=compact&theme=default&hide_title=true" alt="Top languages" height="165">
-</p>
+
 
 ---
 
